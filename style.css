@@ -62,7 +62,7 @@ h2{font-weight:800;font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.1;letter-spa
 .plan li::before{content:"";position:absolute;left:0;top:.62em;width:.6rem;height:.6rem;border-radius:50%;border:2px solid var(--mint)}
 .note{color:var(--muted);font-size:.92rem;margin-top:1.5rem}
 
-.team{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+.team{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:center}
 .team p{margin:0 0 1rem;color:var(--muted)}
 .tag{font:400 1.15rem/1.5 var(--mono);color:var(--mint);border-left:3px solid var(--mint);padding-left:1rem}
 
